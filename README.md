@@ -1,2 +1,3 @@
 # book-recommendation-system
-The system of book recommendation is implemented by using Collaborative Filtering,
+This Repo is based on book recommendation system. 
+Books are recommended by developing model using cosine similarities: comparing user with all other user who have same interest i.e have read same kind of books.
